@@ -1,0 +1,9 @@
+[submodule "Vaillant-front-service"]
+	path = Vaillant-front-service
+	url = https://github.com/Foxhole-Tools-Devs/Vaillant-front-service.git
+[submodule "Vaillant-discord-service"]
+	path = Vaillant-discord-service
+	url = https://github.com/Foxhole-Tools-Devs/Vaillant-discord-service.git
+[submodule "Vaillant-domain-service"]
+	path = Vaillant-domain-service
+	url = https://github.com/Foxhole-Tools-Devs/Vaillant-domain-service.git
